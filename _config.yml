@@ -2,16 +2,16 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: CineNav
+email: cinenav691@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Arun Mathew
   pic: 1
-  position: Lead Designer
+  position: Developer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Chris Walsh
   pic: 2
-  position: Lead Marketer
+  position: Developer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,31 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: James Crotty
   pic: 3
-  position: Lead Developer
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Young 
+  pic: 4
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+  
+- name: Solvi Mar Magnusson 
+  pic: 5
+  position: Developer
   social:
     - title: twitter
       url: #
